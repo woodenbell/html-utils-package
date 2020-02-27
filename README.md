@@ -4,7 +4,7 @@ Make HTML5 easier and less time-consuming with this [Espanso](https://espanso.or
 
 # Installation
 
-Make sure you have already installed [Espanso](https://espanso.org/install/) first.
+Make sure you have already installed [Espanso](https://espanso.org/install/) first. Open your
 
 ```
 espanso install html-utils-package
@@ -19,7 +19,7 @@ That's all. You can start using the package. Open your favorite editor and type 
 | ------------- | ------------- |
 | `:doctype` | `<!DOCTYPE html>` |
 | `:charset` | `<meta charset="">` |
-| `:charset8` | `<meta charset="UTF-8">` |
+| `:utf-8` | `<meta charset="UTF-8">` |
 | `:viewport` | `<meta name="viewport" content="width=device-width, initial-scale=1">` |
 | `:meta-author` | `<meta name="author" content="">` |
 | `:meta-desc` | `<meta name="description" content="">` |

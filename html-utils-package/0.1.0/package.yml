@@ -10,7 +10,7 @@ matches:
     replace: >-
       <meta charset="$|$">
   
-  - trigger: ":charset8"
+  - trigger: ":utf-8"
     replace: >-
       <meta charset="UTF-8">
   

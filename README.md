@@ -46,4 +46,4 @@ That's all. You can start using the package. Open your favorite editor and type 
 | `:input-file` | `<input type="file" name="" id="">` |
 
 # Contributions
-If you like there's any important tag/snippet missing, feel free to create a Pull Request or open an [Issue](https://github.com/woodenbell/html-utils-package/issues/new).
+If you feel like there's any important tag/snippet missing, feel free to create a Pull Request or open an [Issue](https://github.com/woodenbell/html-utils-package/issues/new).

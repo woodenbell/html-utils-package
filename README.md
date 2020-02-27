@@ -24,12 +24,12 @@ That's all. You can start using the package. Open your favorite editor and type 
 | `:meta-author` | `<meta name="author" content="">` |
 | `:meta-desc` | `<meta name="description" content="">` |
 | `:meta-keywords` | `<meta name="keywords" content="">` |
-| `:charset8` | `<title></title>` |
+| `:title` | `<title></title>` |
 | `:div` | `<div></div>` |
 | `:html` | `<html></html>` |
 | `:head` | `<head></head>` |
 | `:body` | `<body></body>` |
-| `:link` | `<a href=""></a>` |
+| `:a` | `<a href=""></a>` |
 | `:br` | `<br>` |
 | `:button` | `<button type="button"></button> ` |
 | `:style` | `<style></style>` |

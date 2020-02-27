@@ -30,7 +30,7 @@ matches:
     replace: >-
       <meta name="keywords" content="$|$">
 
-  - trigger: ":charset8"
+  - trigger: ":title"
     replace: >-
       <title>$|$</title>
 
@@ -50,7 +50,7 @@ matches:
     replace: >-
       <body>$|$</body>
   
-  - trigger: ":link"
+  - trigger: ":a"
     replace: >-
       <a href="">$|$</a>
 

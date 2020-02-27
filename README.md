@@ -6,8 +6,10 @@ Make HTML5 easier and less time-consuming with this [Espanso](https://espanso.or
 
 Make sure you have already installed [Espanso](https://espanso.org/install/) first.
 
-> espanso install html-utils-package
-> espanso restart
+```
+espanso install html-utils-package
+espanso restart
+```
 
 That's all. You can start using the package. Open your favorite editor and type `:doctype` to test!
 

@@ -4,7 +4,7 @@ Make HTML5 easier and less time-consuming with this [Espanso](https://espanso.or
 
 # Installation
 
-Make sure you have already installed [Espanso](https://espanso.org/install/) first. Open your
+Make sure you have already installed [Espanso](https://espanso.org/install/) first.
 
 ```
 espanso install html-utils-package
@@ -44,3 +44,6 @@ That's all. You can start using the package. Open your favorite editor and type 
 | `:input-radio` | `<input type="radio" name="" id="" value="">` |
 | `:input-checkbox` | `<input type="checkbox" name="" id="" value="">` |
 | `:input-file` | `<input type="file" name="" id="">` |
+
+# Contributions
+If you like there's any important tag/snippet missing, feel free to create a Pull Request or open an [Issue](https://github.com/woodenbell/html-utils-package/issues/new).

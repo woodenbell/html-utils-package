@@ -8,20 +8,26 @@ Make sure you have already installed [Espanso](https://espanso.org/install/) fir
 
 ```
 espanso install html-utils-package
-espanso restart
 ```
 
-That's all. You can start using the package. Open your favorite editor and type `:doctype` to test!
+That's all. You can start using the package. Open your favorite editor and type `::docskel` to test!
+
+# Preview
+
+You can choose between all of them from the Search-bar:
+![Search-bar](images/search-bar.png)
 
 # Triggers
+
+Here you can see here some of them:
 
 | Trigger  | Result |
 | ------------- | ------------- |
 | `::docskel` | Generates an empty document with `utf-8` and `viewport` headers (unindented) |
 | `::doctype` | `<!DOCTYPE html>` |
-| `::charset` | `<meta charset="">` |
-| `::utf-8` | `<meta charset="UTF-8">` |
-| `::viewport` | `<meta name="viewport" content="width=device-width, initial-scale=1">` |
+| `::meta-charset` | `<meta charset="">` |
+| `::meta-utf-8` | `<meta charset="UTF-8">` |
+| `::meta-viewport` | `<meta name="viewport" content="width=device-width, initial-scale=1">` |
 | `::meta-author` | `<meta name="author" content="">` |
 | `::meta-desc` | `<meta name="description" content="">` |
 | `::meta-keywords` | `<meta name="keywords" content="">` |

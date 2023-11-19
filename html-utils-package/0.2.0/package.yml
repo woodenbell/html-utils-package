@@ -20,7 +20,7 @@ matches:
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
   - trigger: "::meta-author"
-    label: "HTML - meta-autor"
+    label: "HTML - meta-author"
     replace: >-
       <meta name="author" content="$|$">
 
